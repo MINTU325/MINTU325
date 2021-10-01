@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/nipun-jain-1a223a166/" rel="nofollow">
   <img align="left" alt="Nipun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
-<a href="https://twitter.com/NipunJa45651753" rel="nofollow">
+<a href="https://twitter.com/MintuKu46098357" rel="nofollow">
   <img align="left" alt="Nipun Jain | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
 <a href="https://www.youtube.com/channel/UCg4Q4efuAY7qoqUA9lI7_ig" rel="nofollow">
@@ -17,7 +17,7 @@ various challenging projects</p>
   <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/lucifernipun22/lucifernipun22/blob/main/code.gif?raw=true"><img align="right" alt="GIF" src="https://github.com/lucifernipun22/lucifernipun22/raw/main/code.gif?raw=true" width="500" height="320" style="max-width: 100%;"></a></p>
 <ul>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about anything, I am happy to help;</li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://twitter.com/NipunJa45651753" rel="nofollow">@NipunJa45651753</a>;</li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://twitter.com/MintuKu46098357" rel="nofollow">@MintuKu46098357</a>;</li>
 <li><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> <a href="https://drive.google.com/file/d/1hPl1l0ZL_xdISk9hZyKHwMAs1LlOTYi6/view?usp=sharing" rel="nofollow">Resume</a></li>
 <li><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> <a href="https://nipunjainn.netlify.app/#/" rel="nofollow">Portfolio</a></li>
 </ul>
