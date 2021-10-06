@@ -3,8 +3,7 @@
 <a href="https://twitter.com/MintuKu46098357" rel="nofollow">
   <img align="left" alt="Nipun Jain | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
-<a href="https://www.youtube.com/channel/UCg4Q4efuAY7qoqUA9lI7_ig" rel="nofollow">
-  <img align="left" alt="Nipun's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" style="max-width: 100%;">
+
 </a>
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232"><img src="https://camo.githubusercontent.com/46b87402481e58a98efeca5ca5b0f447133867e09a99673d6217da634cf9bee5/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6c7563696665726e6970756e32322e6c7563696665726e6970756e3232" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=lucifernipun22.lucifernipun22" style="max-width: 100%;"></a></p>
 <br>
