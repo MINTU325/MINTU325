@@ -11,7 +11,7 @@
 Java, Kotlin and Android. Highly adaptable to learning new technologies and
 passionate about building applications. Looking forward to honing skills by working on
 various challenging projects</p>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/lucifernipun22/lucifernipun22/blob/main/code.gif?raw=true"><img align="right" alt="GIF" src="https://github.com/lucifernipun22/lucifernipun22/raw/main/code.gif?raw=true" width="500" height="320" style="max-width: 100%;"></a></p>
+
 <ul>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about anything, I am happy to help;</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>Read my bolgs here : <a href="https://mintusaini.hashnode.dev/" rel="nofollow">Click Here</a>;</li>
