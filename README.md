@@ -11,7 +11,10 @@
 Java, Kotlin and Android. Highly adaptable to learning new technologies and
 passionate about building applications. Looking forward to honing skills by working on
 various challenging projects</p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<p><strong>Languages and Tools:</strong></p>
 <ul>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about anything, I am happy to help;</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>Read my bolgs here : <a href="https://mintusaini.hashnode.dev/" rel="nofollow">Click Here</a>;</li>
@@ -19,8 +22,8 @@ various challenging projects</p>
   <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Find me on LinkdIn: <a href="https://github.com/MINTU325" rel="nofollow">LinkdIn</a>;</li>
 </ul>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-<p><strong>Languages and Tools:</strong></p>
+
+
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/923eea6a54760c8adc876b3afab4fec69342f619a1428b14d8ae211d2f7801cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3035313232413f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d464641353138"><img src="https://camo.githubusercontent.com/923eea6a54760c8adc876b3afab4fec69342f619a1428b14d8ae211d2f7801cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3035313232413f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d464641353138" alt="Java" data-canonical-src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518" style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/210e7a3a011505bb4ef97fbc304345c0faf82197528a0dc9c8cd3d3f176528f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3035313232413f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d464646464646"><img src="https://camo.githubusercontent.com/210e7a3a011505bb4ef97fbc304345c0faf82197528a0dc9c8cd3d3f176528f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3035313232413f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d464646464646" alt="MySQL" data-canonical-src="https://img.shields.io/badge/-MySQL-05122A?style=flat&amp;logo=mysql&amp;logoColor=FFFFFF" style="max-width: 100%;"></a>&nbsp;
