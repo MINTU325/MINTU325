@@ -19,7 +19,7 @@ various challenging projects</p>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about anything, I am happy to help;</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>Read my bolgs here : <a href="https://mintusaini.hashnode.dev/" rel="nofollow">Click Here</a>;</li>
   <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Check out my portfolio: <a href="https://sainimintu34.wixsite.com/mintusaini" rel="nofollow">MintuSaini</a>;</li>
-  <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Find me on LinkdIn: <a href="[https://github.com/MINTU325](https://www.linkedin.com/in/mintu-saini-879771188/)" rel="nofollow">LinkdIn</a>;</li>
+  <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>Find me on Linkdin: <a href="https://www.linkedin.com/in/mintu-saini-879771188/" rel="nofollow">Linkdin</a>;</li>
 </ul>
 
 
